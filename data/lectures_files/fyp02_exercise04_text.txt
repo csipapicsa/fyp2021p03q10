@@ -1,0 +1,6 @@
+==== EXERCISE 04, FIRST YEAR PROJECT 2021, PROJECT 2
+
+Doing this exercise is doing work for your submission. You do not have to finish all the points listed below within the exercise time of 2 hours! Use the exercise time to start (with help from TAs), and then finish everything within 2 days together with your group. The next exercise will build on that.
+
+- Integrate your external datasets into your main dataset
+- Each time you add variables, run a model showing what effect they have on your other predictor. This should answer your Task 4 research question
