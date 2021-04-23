@@ -1,0 +1,875 @@
+_id,name,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY
+5c9545afdb6d7c19d0bc06d5,ISIC_0054181,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b0db6d7c19d0bc06f1,ISIC_0054209,55,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b0db6d7c19d0bc06ff,ISIC_0054223,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b1db6d7c19d0bc0723,ISIC_0054259,75,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b2db6d7c19d0bc072f,ISIC_0054271,50,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545b2db6d7c19d0bc0730,ISIC_0054272,55,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545b4db6d7c19d0bc076d,ISIC_0054333,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545b5db6d7c19d0bc0787,ISIC_0054359,55,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b8db6d7c19d0bc07d0,ISIC_0054432,80,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b8db6d7c19d0bc07d1,ISIC_0054433,30,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545bbdb6d7c19d0bc0833,ISIC_0054531,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545bbdb6d7c19d0bc0835,ISIC_0054533,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545bbdb6d7c19d0bc084c,ISIC_0054556,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545bcdb6d7c19d0bc0867,ISIC_0054583,50,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545bddb6d7c19d0bc0870,ISIC_0054592,75,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545bddb6d7c19d0bc0872,ISIC_0054594,75,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545bddb6d7c19d0bc0876,ISIC_0054598,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545bedb6d7c19d0bc089a,ISIC_0054634,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545bedb6d7c19d0bc089b,ISIC_0054635,75,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545bfdb6d7c19d0bc08ba,ISIC_0054666,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c0db6d7c19d0bc08cf,ISIC_0054687,75,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c0db6d7c19d0bc08d1,ISIC_0054689,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c3db6d7c19d0bc0945,ISIC_0054805,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c5db6d7c19d0bc098e,ISIC_0054878,30,anterior torso,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c6db6d7c19d0bc09a3,ISIC_0054899,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c6db6d7c19d0bc09ac,ISIC_0054908,65,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c7db6d7c19d0bc09b9,ISIC_0054921,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545cedb6d7c19d0bc0a6b,ISIC_0055099,50,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545cfdb6d7c19d0bc0aa7,ISIC_0055159,85,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d0db6d7c19d0bc0ab8,ISIC_0055176,40,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d3db6d7c19d0bc0b02,ISIC_0055250,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d3db6d7c19d0bc0b0b,ISIC_0055259,75,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d3db6d7c19d0bc0b0c,ISIC_0055260,65,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d3db6d7c19d0bc0b19,ISIC_0055273,80,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d5db6d7c19d0bc0b53,ISIC_0055331,75,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d7db6d7c19d0bc0b7e,ISIC_0055374,85,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d7db6d7c19d0bc0b98,ISIC_0055400,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d9db6d7c19d0bc0bcc,ISIC_0055452,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545dadb6d7c19d0bc0be3,ISIC_0055475,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545dfdb6d7c19d0bc0c5c,ISIC_0055596,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545dfdb6d7c19d0bc0c69,ISIC_0055609,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e0db6d7c19d0bc0c87,ISIC_0055639,80,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e2db6d7c19d0bc0cb6,ISIC_0055686,85,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545e2db6d7c19d0bc0cb9,ISIC_0055689,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e3db6d7c19d0bc0cdc,ISIC_0055724,80,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e3db6d7c19d0bc0ce4,ISIC_0055732,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545e5db6d7c19d0bc0d31,ISIC_0055809,65,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e6db6d7c19d0bc0d4e,ISIC_0055838,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e7db6d7c19d0bc0d54,ISIC_0055844,55,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e8db6d7c19d0bc0d81,ISIC_0055889,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e9db6d7c19d0bc0d94,ISIC_0055908,50,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545ebdb6d7c19d0bc0dd9,ISIC_0055977,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545ebdb6d7c19d0bc0de5,ISIC_0055989,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545ecdb6d7c19d0bc0df2,ISIC_0056002,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545ecdb6d7c19d0bc0df4,ISIC_0056004,75,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545ecdb6d7c19d0bc0df5,ISIC_0056005,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545ecdb6d7c19d0bc0e00,ISIC_0056016,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545eddb6d7c19d0bc0e15,ISIC_0056037,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545eedb6d7c19d0bc0e24,ISIC_0056052,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545eedb6d7c19d0bc0e37,ISIC_0056071,75,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545eedb6d7c19d0bc0e39,ISIC_0056073,65,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545efdb6d7c19d0bc0e55,ISIC_0056101,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f0db6d7c19d0bc0e63,ISIC_0056115,85,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f0db6d7c19d0bc0e70,ISIC_0056128,65,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f1db6d7c19d0bc0e8f,ISIC_0056159,80,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f1db6d7c19d0bc0e96,ISIC_0056166,65,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f2db6d7c19d0bc0ea0,ISIC_0056176,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f5db6d7c19d0bc0f01,ISIC_0056273,80,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f5db6d7c19d0bc0f06,ISIC_0056278,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f6db6d7c19d0bc0f1e,ISIC_0056302,55,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f7db6d7c19d0bc0f47,ISIC_0056343,30,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545fadb6d7c19d0bc0f93,ISIC_0056419,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545fadb6d7c19d0bc0f95,ISIC_0056421,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545fbdb6d7c19d0bc0fa5,ISIC_0056437,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545fddb6d7c19d0bc0fe8,ISIC_0056504,40,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545fddb6d7c19d0bc0ff8,ISIC_0056520,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545fddb6d7c19d0bc1001,ISIC_0056529,70,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545ffdb6d7c19d0bc1036,ISIC_0056582,30,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954600db6d7c19d0bc1055,ISIC_0056613,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954601db6d7c19d0bc1066,ISIC_0056630,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954601db6d7c19d0bc1073,ISIC_0056643,50,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954602db6d7c19d0bc1086,ISIC_0056662,50,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954604db6d7c19d0bc10c4,ISIC_0056724,70,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954604db6d7c19d0bc10d9,ISIC_0056745,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954605db6d7c19d0bc10e4,ISIC_0056756,85,,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954606db6d7c19d0bc10f5,ISIC_0056773,85,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954609db6d7c19d0bc1153,ISIC_0056867,85,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95460adb6d7c19d0bc1172,ISIC_0056898,55,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95460adb6d7c19d0bc1178,ISIC_0056904,55,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95460adb6d7c19d0bc1179,ISIC_0056905,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95460bdb6d7c19d0bc1188,ISIC_0056920,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954610db6d7c19d0bc11ee,ISIC_0057022,55,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954610db6d7c19d0bc11fe,ISIC_0057038,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954610db6d7c19d0bc1200,ISIC_0057040,55,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954611db6d7c19d0bc1202,ISIC_0057042,70,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954611db6d7c19d0bc120b,ISIC_0057051,85,,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954611db6d7c19d0bc120c,ISIC_0057052,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954612db6d7c19d0bc1220,ISIC_0057072,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954612db6d7c19d0bc1225,ISIC_0057077,60,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954613db6d7c19d0bc1246,ISIC_0057110,75,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954613db6d7c19d0bc1256,ISIC_0057126,75,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954614db6d7c19d0bc125f,ISIC_0057135,60,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954614db6d7c19d0bc1269,ISIC_0057145,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954614db6d7c19d0bc1275,ISIC_0057157,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954617db6d7c19d0bc12b9,ISIC_0057225,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954618db6d7c19d0bc12f0,ISIC_0057280,65,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95461bdb6d7c19d0bc1337,ISIC_0057351,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95461bdb6d7c19d0bc133d,ISIC_0057357,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95461cdb6d7c19d0bc135b,ISIC_0057387,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95461edb6d7c19d0bc1387,ISIC_0057431,80,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95461edb6d7c19d0bc138d,ISIC_0057437,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95461edb6d7c19d0bc1399,ISIC_0057449,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95461fdb6d7c19d0bc139f,ISIC_0057455,50,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95461fdb6d7c19d0bc13a2,ISIC_0057458,65,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95461fdb6d7c19d0bc13b5,ISIC_0057477,85,,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954621db6d7c19d0bc13dd,ISIC_0057517,70,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954621db6d7c19d0bc13e6,ISIC_0057526,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954622db6d7c19d0bc13fb,ISIC_0057547,80,anterior torso,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954622db6d7c19d0bc1417,ISIC_0057575,60,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954623db6d7c19d0bc1422,ISIC_0057586,55,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954624db6d7c19d0bc1440,ISIC_0057616,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954624db6d7c19d0bc1456,ISIC_0057638,50,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954626db6d7c19d0bc147f,ISIC_0057679,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954628db6d7c19d0bc14bb,ISIC_0057739,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954628db6d7c19d0bc14bc,ISIC_0057740,80,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954629db6d7c19d0bc14e2,ISIC_0057778,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95462adb6d7c19d0bc14fe,ISIC_0057806,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95462bdb6d7c19d0bc1527,ISIC_0057847,80,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95462edb6d7c19d0bc1587,ISIC_0057943,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954630db6d7c19d0bc15b2,ISIC_0057986,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954630db6d7c19d0bc15b3,ISIC_0057987,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954634db6d7c19d0bc1627,ISIC_0058103,65,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954634db6d7c19d0bc1637,ISIC_0058119,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954635db6d7c19d0bc1659,ISIC_0058153,85,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954636db6d7c19d0bc1663,ISIC_0058163,75,upper extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954637db6d7c19d0bc1680,ISIC_0058192,60,palms/soles,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954638db6d7c19d0bc16af,ISIC_0058239,65,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954638db6d7c19d0bc16b2,ISIC_0058242,30,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954639db6d7c19d0bc16d1,ISIC_0058273,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95463adb6d7c19d0bc1700,ISIC_0058320,85,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95463bdb6d7c19d0bc1704,ISIC_0058324,75,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95463ddb6d7c19d0bc173b,ISIC_0058379,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95463edb6d7c19d0bc1754,ISIC_0058404,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95463edb6d7c19d0bc176b,ISIC_0058427,70,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95463edb6d7c19d0bc176f,ISIC_0058431,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95463fdb6d7c19d0bc177b,ISIC_0058443,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95463fdb6d7c19d0bc1784,ISIC_0058452,85,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95463fdb6d7c19d0bc178b,ISIC_0058459,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95463fdb6d7c19d0bc178c,ISIC_0058460,55,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954640db6d7c19d0bc17ae,ISIC_0058494,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954641db6d7c19d0bc17ba,ISIC_0058506,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954644db6d7c19d0bc1811,ISIC_0058593,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954644db6d7c19d0bc1816,ISIC_0058598,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954645db6d7c19d0bc182f,ISIC_0058623,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954646db6d7c19d0bc183f,ISIC_0058639,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954646db6d7c19d0bc1840,ISIC_0058640,80,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954646db6d7c19d0bc184d,ISIC_0058653,55,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95464adb6d7c19d0bc18b4,ISIC_0058756,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95464adb6d7c19d0bc18ba,ISIC_0058762,75,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95464adb6d7c19d0bc18c1,ISIC_0058769,80,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95464adb6d7c19d0bc18c8,ISIC_0058776,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95464ddb6d7c19d0bc1920,ISIC_0058864,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95464edb6d7c19d0bc1934,ISIC_0058884,65,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95464edb6d7c19d0bc193a,ISIC_0058890,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95464fdb6d7c19d0bc195c,ISIC_0058924,55,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954650db6d7c19d0bc196c,ISIC_0058940,70,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954650db6d7c19d0bc1977,ISIC_0058951,50,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954651db6d7c19d0bc1987,ISIC_0058967,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954651db6d7c19d0bc198b,ISIC_0058971,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954651db6d7c19d0bc1997,ISIC_0058983,55,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954652db6d7c19d0bc199c,ISIC_0058988,50,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954652db6d7c19d0bc19a2,ISIC_0058994,55,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954653db6d7c19d0bc19b6,ISIC_0059014,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954653db6d7c19d0bc19c8,ISIC_0059032,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954654db6d7c19d0bc19e2,ISIC_0059058,50,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954656db6d7c19d0bc19ff,ISIC_0059087,55,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954656db6d7c19d0bc1a14,ISIC_0059108,75,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954657db6d7c19d0bc1a33,ISIC_0059139,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954658db6d7c19d0bc1a3a,ISIC_0059146,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954659db6d7c19d0bc1a5e,ISIC_0059182,50,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95465adb6d7c19d0bc1a6e,ISIC_0059198,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95465bdb6d7c19d0bc1a7b,ISIC_0059211,55,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95465ddb6d7c19d0bc1aa2,ISIC_0059250,85,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954661db6d7c19d0bc1b10,ISIC_0059360,65,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954662db6d7c19d0bc1b1c,ISIC_0059372,40,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954663db6d7c19d0bc1b35,ISIC_0059397,55,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954663db6d7c19d0bc1b40,ISIC_0059408,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954667db6d7c19d0bc1bc4,ISIC_0059540,75,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954668db6d7c19d0bc1bd9,ISIC_0059561,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954668db6d7c19d0bc1be4,ISIC_0059572,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954669db6d7c19d0bc1bf4,ISIC_0059588,85,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95466ddb6d7c19d0bc1c6d,ISIC_0059709,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95466ddb6d7c19d0bc1c78,ISIC_0059720,85,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95466edb6d7c19d0bc1c9f,ISIC_0059759,65,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95466fdb6d7c19d0bc1cbd,ISIC_0059789,50,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954670db6d7c19d0bc1cc7,ISIC_0059799,70,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954670db6d7c19d0bc1cc8,ISIC_0059800,65,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954671db6d7c19d0bc1ce3,ISIC_0059827,80,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954671db6d7c19d0bc1cf3,ISIC_0059843,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954671db6d7c19d0bc1cfc,ISIC_0059852,80,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954672db6d7c19d0bc1d10,ISIC_0059872,75,upper extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954672db6d7c19d0bc1d12,ISIC_0059874,70,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954672db6d7c19d0bc1d1e,ISIC_0059886,55,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954675db6d7c19d0bc1d81,ISIC_0059985,50,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954677db6d7c19d0bc1db9,ISIC_0060041,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954677db6d7c19d0bc1dc7,ISIC_0060055,80,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954678db6d7c19d0bc1dde,ISIC_0060078,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954679db6d7c19d0bc1df2,ISIC_0060098,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954679db6d7c19d0bc1e04,ISIC_0060116,85,,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95467adb6d7c19d0bc1e0a,ISIC_0060122,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95467adb6d7c19d0bc1e18,ISIC_0060136,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95467bdb6d7c19d0bc1e2d,ISIC_0060157,65,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95467cdb6d7c19d0bc1e5f,ISIC_0060207,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95467ddb6d7c19d0bc1e76,ISIC_0060230,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95467ddb6d7c19d0bc1e7b,ISIC_0060235,70,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95467edb6d7c19d0bc1e91,ISIC_0060257,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95467edb6d7c19d0bc1e9d,ISIC_0060269,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95467edb6d7c19d0bc1ea1,ISIC_0060273,30,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954680db6d7c19d0bc1ee1,ISIC_0060337,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954681db6d7c19d0bc1ef2,ISIC_0060354,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954681db6d7c19d0bc1ef5,ISIC_0060357,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954683db6d7c19d0bc1f24,ISIC_0060404,50,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954685db6d7c19d0bc1f63,ISIC_0060467,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954685db6d7c19d0bc1f70,ISIC_0060480,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954686db6d7c19d0bc1f8d,ISIC_0060509,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954686db6d7c19d0bc1f9a,ISIC_0060522,50,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954687db6d7c19d0bc1fb2,ISIC_0060546,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954688db6d7c19d0bc1fe1,ISIC_0060593,50,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95468adb6d7c19d0bc200c,ISIC_0060636,10,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95468bdb6d7c19d0bc202e,ISIC_0060670,75,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95468cdb6d7c19d0bc2052,ISIC_0060706,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95468ddb6d7c19d0bc2069,ISIC_0060729,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95468ddb6d7c19d0bc2083,ISIC_0060755,75,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95468edb6d7c19d0bc2097,ISIC_0060775,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95468edb6d7c19d0bc2098,ISIC_0060776,65,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546d5db6d7c19d0bc2919,ISIC_0062953,10,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546d6db6d7c19d0bc292b,ISIC_0062971,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546d8db6d7c19d0bc295b,ISIC_0063019,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546d9db6d7c19d0bc296d,ISIC_0063037,60,palms/soles,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546d9db6d7c19d0bc296e,ISIC_0063038,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546d9db6d7c19d0bc2975,ISIC_0063045,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546d9db6d7c19d0bc297c,ISIC_0063052,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546dadb6d7c19d0bc298c,ISIC_0063068,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546dbdb6d7c19d0bc29ac,ISIC_0063100,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546dbdb6d7c19d0bc29b3,ISIC_0063107,75,head/neck,,,actinic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546dbdb6d7c19d0bc29c2,ISIC_0063122,80,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546dedb6d7c19d0bc29f7,ISIC_0063175,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546dedb6d7c19d0bc29fa,ISIC_0063178,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546dedb6d7c19d0bc2a03,ISIC_0063187,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546dfdb6d7c19d0bc2a1a,ISIC_0063210,70,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546e0db6d7c19d0bc2a42,ISIC_0063250,70,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e1db6d7c19d0bc2a4d,ISIC_0063261,55,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e2db6d7c19d0bc2a67,ISIC_0063287,60,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e2db6d7c19d0bc2a6d,ISIC_0063293,80,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546e3db6d7c19d0bc2a88,ISIC_0063320,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e3db6d7c19d0bc2a8a,ISIC_0063322,85,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e3db6d7c19d0bc2a93,ISIC_0063331,50,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e3db6d7c19d0bc2a97,ISIC_0063335,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e4db6d7c19d0bc2aaf,ISIC_0063359,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e4db6d7c19d0bc2ab1,ISIC_0063361,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546e7db6d7c19d0bc2afb,ISIC_0063435,55,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546e7db6d7c19d0bc2b02,ISIC_0063442,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546eadb6d7c19d0bc2b60,ISIC_0063536,,,,,actinic keratosis,,,,,,,,,FALSE,,,,,,,,,,,,1024,1024
+5c9546ebdb6d7c19d0bc2b85,ISIC_0063573,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546ebdb6d7c19d0bc2b89,ISIC_0063577,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546ebdb6d7c19d0bc2b94,ISIC_0063588,70,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546eedb6d7c19d0bc2bea,ISIC_0063674,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546efdb6d7c19d0bc2c10,ISIC_0063712,,,,,actinic keratosis,,,,,,,,,FALSE,,,,,,,,,,,,1024,1024
+5c9546f1db6d7c19d0bc2c52,ISIC_0063778,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546f2db6d7c19d0bc2c66,ISIC_0063798,80,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546f5db6d7c19d0bc2cb6,ISIC_0063878,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546f5db6d7c19d0bc2cbb,ISIC_0063883,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546f5db6d7c19d0bc2cc2,ISIC_0063890,60,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546f6db6d7c19d0bc2ce7,ISIC_0063927,75,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546f7db6d7c19d0bc2d04,ISIC_0063956,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546f9db6d7c19d0bc2d46,ISIC_0064022,75,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546fbdb6d7c19d0bc2d6f,ISIC_0064063,75,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546fbdb6d7c19d0bc2d73,ISIC_0064067,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9546fedb6d7c19d0bc2dc7,ISIC_0064151,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9546ffdb6d7c19d0bc2df4,ISIC_0064196,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954700db6d7c19d0bc2e03,ISIC_0064211,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954700db6d7c19d0bc2e0e,ISIC_0064222,75,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954700db6d7c19d0bc2e17,ISIC_0064231,65,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954701db6d7c19d0bc2e36,ISIC_0064262,85,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954703db6d7c19d0bc2e72,ISIC_0064322,85,lower extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954703db6d7c19d0bc2e7a,ISIC_0064330,80,upper extremity,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954708db6d7c19d0bc2f1a,ISIC_0064490,85,lower extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954709db6d7c19d0bc2f3c,ISIC_0064524,50,upper extremity,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95470adb6d7c19d0bc2f59,ISIC_0064553,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95470bdb6d7c19d0bc2f77,ISIC_0064583,70,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95470cdb6d7c19d0bc2f7b,ISIC_0064587,85,head/neck,,,actinic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c95470cdb6d7c19d0bc2f99,ISIC_0064617,75,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95470ddb6d7c19d0bc2fa0,ISIC_0064624,55,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95470ddb6d7c19d0bc2fae,ISIC_0064638,60,anterior torso,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95470fdb6d7c19d0bc2fe2,ISIC_0064690,70,head/neck,,,actinic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5436e3acbae478396759f0d3,ISIC_0000002,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1022,767
+5436e3acbae478396759f0d7,ISIC_0000004,80,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1022,767
+5436e3adbae478396759f0e9,ISIC_0000013,30,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1022,767
+5436e3aebae478396759f0fb,ISIC_0000022,55,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3aebae478396759f103,ISIC_0000026,30,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3aebae478396759f109,ISIC_0000029,45,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3afbae478396759f10b,ISIC_0000030,55,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1503,1129
+5436e3afbae478396759f10d,ISIC_0000031,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3afbae478396759f115,ISIC_0000035,25,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3afbae478396759f117,ISIC_0000036,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f11f,ISIC_0000040,65,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b0bae478396759f125,ISIC_0000043,35,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f12b,ISIC_0000046,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b1bae478396759f131,ISIC_0000049,80,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f13b,ISIC_0000054,25,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b2bae478396759f13f,ISIC_0000056,55,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1504,1129
+5436e3b3bae478396759f15b,ISIC_0000070,25,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1022,767
+5436e3b4bae478396759f163,ISIC_0000074,25,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1022,767
+5436e3b4bae478396759f167,ISIC_0000076,55,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b4bae478396759f169,ISIC_0000077,80,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3b4bae478396759f16b,ISIC_0000078,85,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1504,1129
+5436e3c0bae478396759f1e7,ISIC_0000139,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2816,2112
+5436e3c1bae478396759f1e9,ISIC_0000140,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2816,2112
+5436e3c1bae478396759f1eb,ISIC_0000141,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c1bae478396759f1ed,ISIC_0000142,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c1bae478396759f1ef,ISIC_0000143,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2592,1944
+5436e3c2bae478396759f1f1,ISIC_0000144,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c2bae478396759f1f3,ISIC_0000145,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c2bae478396759f1f5,ISIC_0000146,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c2bae478396759f1f7,ISIC_0000147,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c2bae478396759f1f9,ISIC_0000148,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2816,2112
+5436e3c3bae478396759f1fb,ISIC_0000149,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c3bae478396759f1fd,ISIC_0000150,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c3bae478396759f1ff,ISIC_0000151,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c3bae478396759f201,ISIC_0000152,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2592,1944
+5436e3c4bae478396759f203,ISIC_0000153,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2592,1944
+5436e3c4bae478396759f205,ISIC_0000154,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c4bae478396759f207,ISIC_0000155,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c4bae478396759f209,ISIC_0000156,,,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,,,,,,,dermoscopic,,2048,1536
+5436e3c4bae478396759f20b,ISIC_0000157,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,963,629
+5436e3c4bae478396759f20d,ISIC_0000158,30,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,722,542
+5436e3c4bae478396759f20f,ISIC_0000159,15,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,965,724
+5436e3c4bae478396759f211,ISIC_0000160,55,lateral torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,722,540
+5436e3c5bae478396759f213,ISIC_0000161,45,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,962,674
+5436e3c5bae478396759f215,ISIC_0000162,40,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,964,640
+5436e3c5bae478396759f217,ISIC_0000163,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,965,649
+5436e3c5bae478396759f219,ISIC_0000164,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,959,638
+5436e3c5bae478396759f21b,ISIC_0000165,15,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,961,649
+5436e3c5bae478396759f21d,ISIC_0000166,30,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,722,542
+5436e3c5bae478396759f21f,ISIC_0000167,40,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,965,624
+5436e3c5bae478396759f221,ISIC_0000168,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,962,645
+5436e3c5bae478396759f223,ISIC_0000169,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,722,542
+5436e3c5bae478396759f225,ISIC_0000170,50,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,722,542
+5436e3c5bae478396759f227,ISIC_0000171,45,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,964,720
+5436e3c5bae478396759f229,ISIC_0000172,35,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,962,674
+5436e3c5bae478396759f22b,ISIC_0000173,65,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,722,545
+5436e3c6bae478396759f22d,ISIC_0000174,50,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,960,724
+5436e3c6bae478396759f22f,ISIC_0000175,35,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,966,638
+5436e3c6bae478396759f231,ISIC_0000176,40,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,944,1127
+5436e3cfbae478396759f2f9,ISIC_0000276,70,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3cfbae478396759f2fb,ISIC_0000277,70,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3cfbae478396759f2fd,ISIC_0000278,75,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f2ff,ISIC_0000279,80,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f301,ISIC_0000280,70,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f303,ISIC_0000281,25,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f305,ISIC_0000282,65,palms/soles,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f307,ISIC_0000283,50,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f309,ISIC_0000284,80,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f30b,ISIC_0000285,60,lateral torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f30d,ISIC_0000286,50,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f30f,ISIC_0000287,55,palms/soles,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f311,ISIC_0000288,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1024,768
+5436e3d0bae478396759f313,ISIC_0000289,75,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d1bae478396759f315,ISIC_0000290,65,palms/soles,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1024,768
+5436e3d1bae478396759f317,ISIC_0000291,55,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1024,768
+5436e3d1bae478396759f319,ISIC_0000292,85,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1024,768
+5436e3d1bae478396759f31b,ISIC_0000293,70,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d1bae478396759f31d,ISIC_0000294,80,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1024,768
+5436e3d1bae478396759f31f,ISIC_0000295,85,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,767,576
+5436e3d1bae478396759f321,ISIC_0000296,50,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,767,576
+54e755f3bae47850e86cdfcc,ISIC_0001101,85,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,2198,1603
+54e755f4bae47850e86cdfd1,ISIC_0001102,50,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3072,2304
+54e755f4bae47850e86cdfd6,ISIC_0001103,80,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3872,2592
+54e755f5bae47850e86cdfe0,ISIC_0001105,35,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755f5bae47850e86cdfe5,ISIC_0001106,70,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3872,2592
+54e755f6bae47850e86cdfef,ISIC_0001108,75,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3872,2592
+54e755f7bae47850e86cdff9,ISIC_0001110,70,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755f8bae47850e86ce003,ISIC_0001112,80,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3872,2592
+54e755f9bae47850e86ce017,ISIC_0001116,75,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3872,2592
+54e755fabae47850e86ce021,ISIC_0001118,70,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3872,2592
+54e755fabae47850e86ce026,ISIC_0001119,55,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755fbbae47850e86ce030,ISIC_0001121,85,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755fcbae47850e86ce03f,ISIC_0001124,60,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755fcbae47850e86ce044,ISIC_0001125,80,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3872,2592
+54e755fcbae47850e86ce049,ISIC_0001126,65,anterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755fdbae47850e86ce04e,ISIC_0001127,65,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755fdbae47850e86ce053,ISIC_0001128,40,lateral torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755febae47850e86ce062,ISIC_0001131,45,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755febae47850e86ce067,ISIC_0001132,50,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755ffbae47850e86ce06c,ISIC_0001133,65,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755ffbae47850e86ce071,ISIC_0001134,65,lateral torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e755ffbae47850e86ce076,ISIC_0001135,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3072,2304
+54e75600bae47850e86ce080,ISIC_0001137,60,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e75600bae47850e86ce085,ISIC_0001138,65,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e75601bae47850e86ce08f,ISIC_0001140,50,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,1936,1936
+54e75601bae47850e86ce094,ISIC_0001141,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3072,2304
+54e75601bae47850e86ce099,ISIC_0001142,70,lower extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3072,2304
+54e75602bae47850e86ce09e,ISIC_0001143,75,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3872,2592
+54e75603bae47850e86ce0b7,ISIC_0001148,85,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+54e75604bae47850e86ce0c6,ISIC_0001151,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3072,2304
+54e75604bae47850e86ce0cb,ISIC_0001152,25,head/neck,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,1936,1296
+54e75605bae47850e86ce0d5,ISIC_0001154,35,upper extremity,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,female,,,,,,dermoscopic,,3872,2592
+54e75606bae47850e86ce0e4,ISIC_0001157,75,posterior torso,malignant,,melanoma,histopathology,,,,,,,,TRUE,,,,male,,,,,,dermoscopic,,3072,2304
+558d6082bae47801cf73435d,ISIC_0009868,70,posterior torso,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6089bae47801cf734387,ISIC_0009882,60,upper extremity,malignant,5,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d608bbae47801cf734393,ISIC_0009886,70,head/neck,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d608dbae47801cf73439f,ISIC_0009890,70,posterior torso,malignant,16,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d608fbae47801cf7343ab,ISIC_0009894,30,anterior torso,malignant,11,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6090bae47801cf7343b4,ISIC_0009897,55,anterior torso,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6090bae47801cf7343b7,ISIC_0009898,85,upper extremity,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6094bae47801cf7343cc,ISIC_0009905,20,upper extremity,malignant,8,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6096bae47801cf7343d5,ISIC_0009908,80,head/neck,malignant,16,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6097bae47801cf7343db,ISIC_0009910,55,upper extremity,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6099bae47801cf7343e4,ISIC_0009913,80,head/neck,malignant,30,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d609abae47801cf7343ed,ISIC_0009916,75,head/neck,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d609cbae47801cf7343f3,ISIC_0009918,80,upper extremity,malignant,12,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60a0bae47801cf73440e,ISIC_0009927,40,head/neck,malignant,5,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d60a4bae47801cf734423,ISIC_0009934,85,head/neck,malignant,10,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d60adbae47801cf734453,ISIC_0009950,35,anterior torso,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d60afbae47801cf734462,ISIC_0009955,70,lower extremity,malignant,3,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d60b2bae47801cf734471,ISIC_0009960,50,lower extremity,malignant,2,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d60b7bae47801cf734492,ISIC_0009971,70,lower extremity,malignant,2,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d60bebae47801cf7344b9,ISIC_0009984,70,lower extremity,malignant,15,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d60c1bae47801cf7344c8,ISIC_0009989,60,upper extremity,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60c3bae47801cf7344d4,ISIC_0009993,85,head/neck,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d60c6bae47801cf7344e9,ISIC_0010000,60,lower extremity,malignant,12,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d60c9bae47801cf7344fe,ISIC_0010007,65,head/neck,malignant,8,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d60cbbae47801cf73450a,ISIC_0010011,60,upper extremity,malignant,8,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60cebae47801cf734519,ISIC_0010016,65,posterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60d2bae47801cf73452e,ISIC_0010023,80,upper extremity,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60d3bae47801cf734531,ISIC_0010024,50,upper extremity,malignant,3,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60d5bae47801cf734540,ISIC_0010029,65,head/neck,malignant,12,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d60d8bae47801cf73454f,ISIC_0010034,50,upper extremity,malignant,5.5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d60d9bae47801cf734555,ISIC_0010036,75,head/neck,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60dbbae47801cf73455e,ISIC_0010039,65,upper extremity,malignant,5,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d60dfbae47801cf73457c,ISIC_0010049,85,posterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60e0bae47801cf73457f,ISIC_0010050,55,posterior torso,malignant,11,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d60e2bae47801cf73458b,ISIC_0010054,70,upper extremity,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d60e3bae47801cf734591,ISIC_0010056,60,posterior torso,malignant,11,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d60e8bae47801cf7345b2,ISIC_0010067,75,head/neck,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6123bae47801cf734705,ISIC_0010080,45,posterior torso,malignant,3,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6123bae47801cf734708,ISIC_0010081,60,head/neck,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6127bae47801cf734720,ISIC_0010089,45,anterior torso,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d612abae47801cf73472f,ISIC_0010094,10,anterior torso,malignant,4.5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6131bae47801cf734753,ISIC_0010106,45,upper extremity,malignant,14,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6138bae47801cf73477a,ISIC_0010119,70,lower extremity,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6139bae47801cf73477d,ISIC_0010120,65,upper extremity,malignant,13,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d613abae47801cf734783,ISIC_0010122,55,anterior torso,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d613fbae47801cf73479e,ISIC_0010131,25,head/neck,malignant,15,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6142bae47801cf7347b0,ISIC_0010137,45,upper extremity,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6143bae47801cf7347b9,ISIC_0010140,65,posterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6145bae47801cf7347c2,ISIC_0010143,85,upper extremity,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6147bae47801cf7347c8,ISIC_0010145,55,lower extremity,malignant,5,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6148bae47801cf7347d1,ISIC_0010148,70,posterior torso,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d614cbae47801cf7347e9,ISIC_0010156,70,head/neck,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d614fbae47801cf7347fb,ISIC_0010162,85,upper extremity,malignant,14,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6150bae47801cf734801,ISIC_0010164,85,head/neck,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6151bae47801cf734804,ISIC_0010165,85,lower extremity,malignant,15,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6154bae47801cf734816,ISIC_0010171,70,lower extremity,malignant,8,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6156bae47801cf73481f,ISIC_0010174,65,upper extremity,malignant,9,melanoma,histopathology,,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6156bae47801cf734822,ISIC_0010175,50,anterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6159bae47801cf734834,ISIC_0010181,80,head/neck,malignant,40,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d615dbae47801cf73484c,ISIC_0010189,50,upper extremity,malignant,11,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6160bae47801cf73485b,ISIC_0010194,75,posterior torso,malignant,17,melanoma,histopathology,,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6166bae47801cf734882,ISIC_0010207,70,head/neck,malignant,3,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6166bae47801cf734885,ISIC_0010208,70,head/neck,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6167bae47801cf734888,ISIC_0010209,65,upper extremity,malignant,16,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6168bae47801cf73488b,ISIC_0010210,65,lower extremity,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6171bae47801cf7348b8,ISIC_0010225,30,lower extremity,malignant,3,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6173bae47801cf7348ca,ISIC_0010231,85,posterior torso,malignant,10,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6175bae47801cf7348d6,ISIC_0010235,60,upper extremity,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6178bae47801cf7348e5,ISIC_0010240,70,anterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6179bae47801cf7348e8,ISIC_0010241,70,lower extremity,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d617bbae47801cf7348f7,ISIC_0010245,80,head/neck,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d617ebae47801cf734909,ISIC_0010251,60,anterior torso,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6183bae47801cf734933,ISIC_0010265,65,posterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6185bae47801cf734939,ISIC_0010267,65,posterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6186bae47801cf734945,ISIC_0010271,80,upper extremity,malignant,14,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d618abae47801cf73495a,ISIC_0010278,70,head/neck,malignant,3,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d618dbae47801cf734960,ISIC_0010280,70,upper extremity,malignant,6,melanoma,histopathology,,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d618ebae47801cf734969,ISIC_0010283,85,lower extremity,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6191bae47801cf734978,ISIC_0010288,65,anterior torso,malignant,12,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6191bae47801cf73497b,ISIC_0010289,60,posterior torso,malignant,15,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6199bae47801cf73498d,ISIC_0010295,35,lower extremity,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d619bbae47801cf734999,ISIC_0010299,70,lower extremity,malignant,5,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d619dbae47801cf7349a2,ISIC_0010302,70,upper extremity,malignant,6,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d61a2bae47801cf7349c3,ISIC_0010313,45,lower extremity,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62d6bae47801cf7349d5,ISIC_0010319,65,head/neck,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62d7bae47801cf7349db,ISIC_0010321,80,posterior torso,malignant,8,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62d7bae47801cf7349de,ISIC_0010322,70,head/neck,malignant,7,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62dbbae47801cf7349f3,ISIC_0010329,60,upper extremity,malignant,40,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d62e5bae47801cf734a2f,ISIC_0010349,75,upper extremity,malignant,11,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62e6bae47801cf734a32,ISIC_0010350,25,anterior torso,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62e8bae47801cf734a41,ISIC_0010355,85,head/neck,malignant,32,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62eabae47801cf734a4a,ISIC_0010358,40,posterior torso,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62eabae47801cf734a4d,ISIC_0010359,85,head/neck,malignant,17,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62ebbae47801cf734a50,ISIC_0010360,40,posterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d62edbae47801cf734a5c,ISIC_0010364,40,posterior torso,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62eebae47801cf734a62,ISIC_0010366,85,lower extremity,malignant,28,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d62f1bae47801cf734a74,ISIC_0010372,85,lower extremity,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62f3bae47801cf734a80,ISIC_0010376,80,head/neck,malignant,15,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62f4bae47801cf734a89,ISIC_0010379,80,head/neck,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62f5bae47801cf734a8c,ISIC_0010380,75,head/neck,malignant,3,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62f7bae47801cf734a9b,ISIC_0010385,55,head/neck,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62fbbae47801cf734aad,ISIC_0010391,85,head/neck,malignant,29,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62fbbae47801cf734ab0,ISIC_0010392,75,posterior torso,malignant,13,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62fbbae47801cf734ab3,ISIC_0010393,85,posterior torso,malignant,6,melanoma,histopathology,,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d62fcbae47801cf734ab6,ISIC_0010394,85,posterior torso,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d62fdbae47801cf734abc,ISIC_0010396,55,head/neck,malignant,6,melanoma,histopathology,,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d62febae47801cf734abf,ISIC_0010397,50,lower extremity,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62febae47801cf734ac2,ISIC_0010398,50,upper extremity,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d62ffbae47801cf734ac8,ISIC_0010400,70,head/neck,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6300bae47801cf734acb,ISIC_0010401,50,lower extremity,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6300bae47801cf734ace,ISIC_0010402,70,head/neck,malignant,14,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6303bae47801cf734add,ISIC_0010407,85,head/neck,malignant,7.5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6304bae47801cf734ae6,ISIC_0010410,70,lower extremity,malignant,14,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6306bae47801cf734aef,ISIC_0010413,75,head/neck,malignant,16,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6307bae47801cf734af2,ISIC_0010414,80,anterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6307bae47801cf734af5,ISIC_0010415,85,upper extremity,malignant,22,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6308bae47801cf734af8,ISIC_0010416,70,posterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6308bae47801cf734afb,ISIC_0010417,65,upper extremity,malignant,12,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d630bbae47801cf734b0d,ISIC_0010423,80,head/neck,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d630cbae47801cf734b16,ISIC_0010426,70,upper extremity,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d630fbae47801cf734b28,ISIC_0010432,80,lower extremity,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6313bae47801cf734b43,ISIC_0010441,65,head/neck,malignant,4,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d631fbae47801cf734b8e,ISIC_0010466,80,lower extremity,malignant,6,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6321bae47801cf734b94,ISIC_0010468,45,anterior torso,malignant,4.5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6321bae47801cf734b97,ISIC_0010469,75,head/neck,malignant,15,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6322bae47801cf734b9a,ISIC_0010470,75,head/neck,malignant,11,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6324bae47801cf734bac,ISIC_0010476,55,lower extremity,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6325bae47801cf734bb2,ISIC_0010478,85,head/neck,malignant,14,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6327bae47801cf734bbe,ISIC_0010482,65,head/neck,malignant,17,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6329bae47801cf734bc7,ISIC_0010485,75,posterior torso,malignant,13,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6329bae47801cf734bca,ISIC_0010486,75,posterior torso,malignant,17,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6331bae47801cf734bfd,ISIC_0010503,85,upper extremity,malignant,30,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6337bae47801cf734c1e,ISIC_0010514,40,lower extremity,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6338bae47801cf734c24,ISIC_0010516,65,head/neck,malignant,16,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d633dbae47801cf734c45,ISIC_0010527,70,head/neck,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6340bae47801cf734c54,ISIC_0010532,80,lower extremity,malignant,13,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6341bae47801cf734c57,ISIC_0010533,50,posterior torso,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6341bae47801cf734c5a,ISIC_0010534,50,posterior torso,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6342bae47801cf734c60,ISIC_0010536,45,lower extremity,malignant,13,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6343bae47801cf734c63,ISIC_0010537,70,posterior torso,malignant,22,melanoma,histopathology,TRUE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6346bae47801cf734c75,ISIC_0010543,75,posterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6348bae47801cf734c7e,ISIC_0010546,80,head/neck,malignant,18,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6349bae47801cf734c84,ISIC_0010548,80,anterior torso,malignant,8,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d634abae47801cf734c8a,ISIC_0010550,65,posterior torso,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d634bbae47801cf734c8d,ISIC_0010551,65,anterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d634cbae47801cf734c99,ISIC_0010555,65,upper extremity,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6352bae47801cf734cb4,ISIC_0010564,70,head/neck,malignant,14,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6357bae47801cf734cd8,ISIC_0010576,55,anterior torso,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6359bae47801cf734ce1,ISIC_0010579,80,head/neck,malignant,2,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6359bae47801cf734ce4,ISIC_0010580,60,upper extremity,malignant,17,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d635bbae47801cf734ced,ISIC_0010583,80,upper extremity,malignant,12.5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d635dbae47801cf734cf9,ISIC_0010587,30,posterior torso,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d635fbae47801cf734d05,ISIC_0010591,60,posterior torso,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6362bae47801cf734d14,ISIC_0010596,60,posterior torso,malignant,9,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6362bae47801cf734d17,ISIC_0010597,45,lower extremity,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6367bae47801cf734d38,ISIC_0010608,45,posterior torso,malignant,19,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6367bae47801cf734d3b,ISIC_0010609,50,anterior torso,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6368bae47801cf734d3e,ISIC_0010610,50,upper extremity,malignant,18,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6368bae47801cf734d41,ISIC_0010611,50,upper extremity,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d6371bae47801cf734d77,ISIC_0010629,75,head/neck,malignant,32,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6372bae47801cf734d7a,ISIC_0010630,85,upper extremity,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6372bae47801cf734d7d,ISIC_0010631,85,upper extremity,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6378bae47801cf734da4,ISIC_0010644,40,head/neck,malignant,8,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d637abae47801cf734db0,ISIC_0010648,50,upper extremity,malignant,7,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d637cbae47801cf734dbc,ISIC_0010652,50,head/neck,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d637cbae47801cf734dbf,ISIC_0010653,25,head/neck,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d637dbae47801cf734dc5,ISIC_0010655,65,head/neck,malignant,5,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d6381bae47801cf734ddd,ISIC_0010663,80,posterior torso,malignant,11,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d6390bae47801cf734e2e,ISIC_0010690,50,lower extremity,malignant,19,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d6398bae47801cf734e61,ISIC_0010707,60,head/neck,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+558d639cbae47801cf734e76,ISIC_0010714,85,head/neck,malignant,8,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d639fbae47801cf734e85,ISIC_0010719,85,lower extremity,malignant,100,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d63a1bae47801cf734e91,ISIC_0010723,80,anterior torso,malignant,7,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d63a3bae47801cf734ea0,ISIC_0010728,80,posterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d63a4bae47801cf734ea3,ISIC_0010729,75,anterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d63a5bae47801cf734ea6,ISIC_0010730,80,upper extremity,malignant,11,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d63a8bae47801cf734ebb,ISIC_0010737,65,head/neck,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d63aabae47801cf734ec7,ISIC_0010741,45,anterior torso,malignant,4,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,female,,,,,,dermoscopic,,1024,768
+558d63adbae47801cf734ed6,ISIC_0010746,65,anterior torso,malignant,6,melanoma,histopathology,FALSE,,,,,,,TRUE,,,TRUE,male,,,,,,dermoscopic,,1024,768
+558d63aebae47801cf734edf,ISIC_0010749,80,upper extremity,malignant,8,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d63aebae47801cf734ee2,ISIC_0010750,80,posterior torso,malignant,10,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d63b0bae47801cf734eee,ISIC_0010754,80,lower extremity,malignant,15,melanoma,histopathology,FALSE,,,,,,,TRUE,,,FALSE,male,,,,,,dermoscopic,,1024,768
+558d63b1bae47801cf734ef7,ISIC_0010757,40,lower extremity,malignant,6,melanoma,histopathology,TRUE,,,,,,,TRUE,,,FALSE,female,,,,,,dermoscopic,,1024,768
+581cd70f9fc3c13dcd0e1c6e,ISIC_0013167,55,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd7119fc3c13dcd0e1c86,ISIC_0013169,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd7119fc3c13dcd0e1c90,ISIC_0013170,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd7139fc3c13dcd0e1cb4,ISIC_0013174,50,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd7159fc3c13dcd0e1ccf,ISIC_0013177,85,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd7159fc3c13dcd0e1cd8,ISIC_0013178,85,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd71b9fc3c13dcd0e1d3b,ISIC_0013189,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd7209fc3c13dcd0e1daa,ISIC_0013200,50,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd7219fc3c13dcd0e1dc5,ISIC_0013203,75,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd7279fc3c13dcd0e1e36,ISIC_0013215,60,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd72b9fc3c13dcd0e1e85,ISIC_0013223,50,lateral torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd7339fc3c13dcd0e1efa,ISIC_0013236,75,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd7449fc3c13dcd0e2032,ISIC_0013268,55,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7469fc3c13dcd0e2044,ISIC_0013270,85,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7479fc3c13dcd0e204d,ISIC_0013271,65,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd74e9fc3c13dcd0e20a7,ISIC_0013281,85,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd76a9fc3c13dcd0e2200,ISIC_0013316,60,head/neck,malignant,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd76d9fc3c13dcd0e2221,ISIC_0013319,75,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7779fc3c13dcd0e22ab,ISIC_0013333,50,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7799fc3c13dcd0e22bd,ISIC_0013335,65,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd78c9fc3c13dcd0e23aa,ISIC_0013360,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd78f9fc3c13dcd0e23d4,ISIC_0013364,50,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7949fc3c13dcd0e2410,ISIC_0013370,50,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7949fc3c13dcd0e2419,ISIC_0013371,65,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7a69fc3c13dcd0e24eb,ISIC_0013393,60,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7a99fc3c13dcd0e251a,ISIC_0013397,80,,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7ac9fc3c13dcd0e2536,ISIC_0013400,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7b49fc3c13dcd0e2589,ISIC_0013409,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7bd9fc3c13dcd0e25ff,ISIC_0013421,60,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7cf9fc3c13dcd0e26dd,ISIC_0013443,45,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7da9fc3c13dcd0e2767,ISIC_0013458,45,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7e09fc3c13dcd0e27af,ISIC_0013465,75,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7e69fc3c13dcd0e2800,ISIC_0013474,80,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd7f09fc3c13dcd0e28b7,ISIC_0013493,65,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd82c9fc3c13dcd0e2c02,ISIC_0013580,60,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8309fc3c13dcd0e2c26,ISIC_0013584,70,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8319fc3c13dcd0e2c2f,ISIC_0013585,70,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8469fc3c13dcd0e2d8b,ISIC_0013621,70,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8499fc3c13dcd0e2daf,ISIC_0013625,85,,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd84d9fc3c13dcd0e2df5,ISIC_0013632,70,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8509fc3c13dcd0e2e15,ISIC_0013635,50,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8519fc3c13dcd0e2e27,ISIC_0013637,70,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8679fc3c13dcd0e2f4d,ISIC_0013667,50,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd86c9fc3c13dcd0e2f83,ISIC_0013673,60,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd8719fc3c13dcd0e2fc2,ISIC_0013680,55,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8729fc3c13dcd0e2fd4,ISIC_0013682,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd8739fc3c13dcd0e2fec,ISIC_0013684,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd8749fc3c13dcd0e2ff5,ISIC_0013685,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd8759fc3c13dcd0e3009,ISIC_0013687,35,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd8789fc3c13dcd0e3031,ISIC_0013691,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd8829fc3c13dcd0e30c4,ISIC_0013706,85,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8839fc3c13dcd0e30cd,ISIC_0013707,85,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8839fc3c13dcd0e30d6,ISIC_0013708,85,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8849fc3c13dcd0e30df,ISIC_0013709,75,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd88d9fc3c13dcd0e316f,ISIC_0013725,70,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd8909fc3c13dcd0e31b1,ISIC_0013731,75,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8979fc3c13dcd0e3214,ISIC_0013742,70,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8a99fc3c13dcd0e32f2,ISIC_0013764,65,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd8aa9fc3c13dcd0e32fb,ISIC_0013765,65,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8cd9fc3c13dcd0e34f3,ISIC_0013817,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8dd9fc3c13dcd0e35d7,ISIC_0013841,65,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd8f49fc3c13dcd0e372a,ISIC_0013876,80,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd9239fc3c13dcd0e39bb,ISIC_0013945,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd92b9fc3c13dcd0e3a3c,ISIC_0013958,45,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd9389fc3c13dcd0e3af3,ISIC_0013977,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd95a9fc3c13dcd0e3ceb,ISIC_0014029,35,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000
+581cd95b9fc3c13dcd0e3cfd,ISIC_0014031,35,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592
+581cd95f9fc3c13dcd0e3d3c,ISIC_0014038,50,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd96d9fc3c13dcd0e3de1,ISIC_0014055,75,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd97a9fc3c13dcd0e3e98,ISIC_0014074,50,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9819fc3c13dcd0e3ef5,ISIC_0014083,65,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd99d9fc3c13dcd0e405a,ISIC_0014120,75,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9ab9fc3c13dcd0e4111,ISIC_0014139,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9c19fc3c13dcd0e4237,ISIC_0014169,85,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9c69fc3c13dcd0e427f,ISIC_0014177,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9c89fc3c13dcd0e4291,ISIC_0014179,70,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9cf9fc3c13dcd0e4309,ISIC_0014191,50,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9dd9fc3c13dcd0e43d2,ISIC_0014212,60,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9e09fc3c13dcd0e43f6,ISIC_0014216,75,lateral torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cd9fb9fc3c13dcd0e4549,ISIC_0014251,75,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848
+581cda039fc3c13dcd0e45ca,ISIC_0014264,55,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda089fc3c13dcd0e4612,ISIC_0014272,60,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda099fc3c13dcd0e461b,ISIC_0014273,75,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda0c9fc3c13dcd0e4653,ISIC_0014278,55,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda259fc3c13dcd0e478c,ISIC_0014310,50,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cda269fc3c13dcd0e4795,ISIC_0014311,45,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda3b9fc3c13dcd0e48af,ISIC_0014341,85,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cda599fc3c13dcd0e4a40,ISIC_0014382,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda5c9fc3c13dcd0e4a68,ISIC_0014386,65,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda609fc3c13dcd0e4a9e,ISIC_0014392,55,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda619fc3c13dcd0e4aa7,ISIC_0014393,75,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cda639fc3c13dcd0e4acb,ISIC_0014397,50,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cda6d9fc3c13dcd0e4b43,ISIC_0014409,50,lateral torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda6e9fc3c13dcd0e4b4c,ISIC_0014410,45,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cda749fc3c13dcd0e4ba9,ISIC_0014419,80,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cda7e9fc3c13dcd0e4c24,ISIC_0014432,85,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cda909fc3c13dcd0e4d17,ISIC_0014457,75,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cda9f9fc3c13dcd0e4dbc,ISIC_0014474,70,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cdab29fc3c13dcd0e4ebe,ISIC_0014500,75,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cdab49fc3c13dcd0e4ee1,ISIC_0014503,50,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cdab59fc3c13dcd0e4eee,ISIC_0014504,85,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cdabe9fc3c13dcd0e4f51,ISIC_0014515,75,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cdac69fc3c13dcd0e4fc0,ISIC_0014526,65,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cdacc9fc3c13dcd0e5016,ISIC_0014535,75,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+581cdacd9fc3c13dcd0e502b,ISIC_0014537,85,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,4288,2848
+581cdad99fc3c13dcd0e50c8,ISIC_0014554,50,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,4288,2848
+5825fd959fc3c171066d3355,ISIC_0014566,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd959fc3c171066d335e,ISIC_0014567,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd959fc3c171066d3367,ISIC_0014568,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd959fc3c171066d3370,ISIC_0014569,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd959fc3c171066d337b,ISIC_0014570,60,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd969fc3c171066d3386,ISIC_0014571,60,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd969fc3c171066d338f,ISIC_0014572,60,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd969fc3c171066d3398,ISIC_0014573,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd969fc3c171066d33a3,ISIC_0014574,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd979fc3c171066d33ac,ISIC_0014575,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd979fc3c171066d33b8,ISIC_0014576,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd979fc3c171066d33c2,ISIC_0014577,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd979fc3c171066d33cb,ISIC_0014578,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd989fc3c171066d33d4,ISIC_0014579,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd989fc3c171066d33dd,ISIC_0014580,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd989fc3c171066d33e8,ISIC_0014581,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd989fc3c171066d33f1,ISIC_0014582,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd999fc3c171066d33fd,ISIC_0014583,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd999fc3c171066d3407,ISIC_0014584,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,5184,3456
+5825fd9a9fc3c171066d3410,ISIC_0014585,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,5184,3456
+5825fd9a9fc3c171066d3419,ISIC_0014586,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,5184,3456
+5825fd9b9fc3c171066d3422,ISIC_0014587,60,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9b9fc3c171066d342b,ISIC_0014588,60,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9c9fc3c171066d3434,ISIC_0014589,60,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9c9fc3c171066d343d,ISIC_0014590,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9c9fc3c171066d3446,ISIC_0014591,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9c9fc3c171066d344f,ISIC_0014592,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9d9fc3c171066d3458,ISIC_0014593,60,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9d9fc3c171066d3461,ISIC_0014594,85,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd9d9fc3c171066d346a,ISIC_0014595,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd9e9fc3c171066d3473,ISIC_0014596,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd9e9fc3c171066d347c,ISIC_0014597,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd9e9fc3c171066d3485,ISIC_0014598,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,female,,,,,,dermoscopic,,2592,1936
+5825fd9f9fc3c171066d348e,ISIC_0014599,80,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9f9fc3c171066d3497,ISIC_0014600,80,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fd9f9fc3c171066d34a0,ISIC_0014601,80,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fda09fc3c171066d34a9,ISIC_0014602,80,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fda09fc3c171066d34b2,ISIC_0014603,85,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5825fda09fc3c171066d34bb,ISIC_0014604,85,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191719fc3c16793d59e33,ISIC_0015917,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191729fc3c16793d59e3c,ISIC_0015918,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191729fc3c16793d59e47,ISIC_0015919,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191739fc3c16793d59e51,ISIC_0015920,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191739fc3c16793d59e5d,ISIC_0015921,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191739fc3c16793d59e66,ISIC_0015922,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191749fc3c16793d59e71,ISIC_0015923,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191749fc3c16793d59e7a,ISIC_0015924,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191749fc3c16793d59e85,ISIC_0015925,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191759fc3c16793d59e90,ISIC_0015926,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191759fc3c16793d59e99,ISIC_0015927,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191759fc3c16793d59ea2,ISIC_0015928,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191759fc3c16793d59eab,ISIC_0015929,65,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191759fc3c16793d59eb4,ISIC_0015930,65,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191769fc3c16793d59ebd,ISIC_0015931,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191769fc3c16793d59ec6,ISIC_0015932,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191769fc3c16793d59ecf,ISIC_0015933,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191769fc3c16793d59ed8,ISIC_0015934,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+584191779fc3c16793d59ee1,ISIC_0015935,65,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,FALSE,,,,male,,,,,,dermoscopic,,2592,1936
+5c954593db6d7c19d0bc040b,ISIC_0053467,75,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954595db6d7c19d0bc0442,ISIC_0053522,60,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954595db6d7c19d0bc0443,ISIC_0053523,60,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954596db6d7c19d0bc0448,ISIC_0053528,,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,,,,,,,,,1024,1024
+5c954597db6d7c19d0bc0460,ISIC_0053552,85,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c954597db6d7c19d0bc046a,ISIC_0053562,85,head/neck,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c954598db6d7c19d0bc0471,ISIC_0053569,50,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95459adb6d7c19d0bc04ab,ISIC_0053627,85,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95459bdb6d7c19d0bc04cd,ISIC_0053661,70,,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95459bdb6d7c19d0bc04cf,ISIC_0053663,65,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95459ddb6d7c19d0bc0504,ISIC_0053716,65,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95459fdb6d7c19d0bc0524,ISIC_0053748,60,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95459fdb6d7c19d0bc0526,ISIC_0053750,85,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c95459fdb6d7c19d0bc052c,ISIC_0053756,55,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545a2db6d7c19d0bc057b,ISIC_0053835,50,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545a2db6d7c19d0bc057c,ISIC_0053836,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545a5db6d7c19d0bc05d1,ISIC_0053921,70,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545a6db6d7c19d0bc05da,ISIC_0053930,55,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545a6db6d7c19d0bc05dc,ISIC_0053932,40,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545a8db6d7c19d0bc0613,ISIC_0053987,75,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545a8db6d7c19d0bc0616,ISIC_0053990,75,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545a8db6d7c19d0bc0622,ISIC_0054002,50,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545a9db6d7c19d0bc0633,ISIC_0054019,85,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545addb6d7c19d0bc06a0,ISIC_0054128,75,anterior torso,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545aedb6d7c19d0bc06c5,ISIC_0054165,60,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b0db6d7c19d0bc06ef,ISIC_0054207,65,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b0db6d7c19d0bc06fb,ISIC_0054219,65,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b3db6d7c19d0bc0749,ISIC_0054297,65,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b4db6d7c19d0bc0764,ISIC_0054324,65,,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545b4db6d7c19d0bc0765,ISIC_0054325,65,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545b4db6d7c19d0bc0770,ISIC_0054336,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545b5db6d7c19d0bc077d,ISIC_0054349,25,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b5db6d7c19d0bc0782,ISIC_0054354,65,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b6db6d7c19d0bc07a8,ISIC_0054392,45,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545b7db6d7c19d0bc07c3,ISIC_0054419,55,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545b7db6d7c19d0bc07c7,ISIC_0054423,45,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545badb6d7c19d0bc0829,ISIC_0054521,50,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545bbdb6d7c19d0bc083f,ISIC_0054543,75,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545bedb6d7c19d0bc0898,ISIC_0054632,45,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c0db6d7c19d0bc08d2,ISIC_0054690,75,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c0db6d7c19d0bc08d5,ISIC_0054693,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c0db6d7c19d0bc08e4,ISIC_0054708,60,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c1db6d7c19d0bc08f0,ISIC_0054720,40,upper extremity,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c1db6d7c19d0bc08f4,ISIC_0054724,70,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c1db6d7c19d0bc08fb,ISIC_0054731,40,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c1db6d7c19d0bc0903,ISIC_0054739,50,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c2db6d7c19d0bc0919,ISIC_0054761,55,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c2db6d7c19d0bc092b,ISIC_0054779,30,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c2db6d7c19d0bc092c,ISIC_0054780,30,lower extremity,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c3db6d7c19d0bc094b,ISIC_0054811,55,lower extremity,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c4db6d7c19d0bc0961,ISIC_0054833,65,lower extremity,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c4db6d7c19d0bc0968,ISIC_0054840,85,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c5db6d7c19d0bc0977,ISIC_0054855,50,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c5db6d7c19d0bc098f,ISIC_0054879,50,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c6db6d7c19d0bc0992,ISIC_0054882,70,head/neck,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c6db6d7c19d0bc09a1,ISIC_0054897,75,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c6db6d7c19d0bc09a4,ISIC_0054900,75,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c7db6d7c19d0bc09c3,ISIC_0054931,70,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545c8db6d7c19d0bc09e5,ISIC_0054965,40,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c9db6d7c19d0bc09f5,ISIC_0054981,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545c9db6d7c19d0bc09f7,ISIC_0054983,,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,,,,,,,,,1024,1024
+5c9545cadb6d7c19d0bc0a08,ISIC_0055000,85,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545cbdb6d7c19d0bc0a23,ISIC_0055027,55,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545cddb6d7c19d0bc0a5d,ISIC_0055085,50,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545cedb6d7c19d0bc0a69,ISIC_0055097,60,oral/genital,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545cfdb6d7c19d0bc0a9a,ISIC_0055146,60,,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545cfdb6d7c19d0bc0a9f,ISIC_0055151,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d0db6d7c19d0bc0aac,ISIC_0055164,65,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d0db6d7c19d0bc0aae,ISIC_0055166,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d0db6d7c19d0bc0abe,ISIC_0055182,55,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d0db6d7c19d0bc0ac1,ISIC_0055185,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d1db6d7c19d0bc0adf,ISIC_0055215,40,head/neck,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d1db6d7c19d0bc0ae3,ISIC_0055219,70,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d2db6d7c19d0bc0af2,ISIC_0055234,85,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d2db6d7c19d0bc0af3,ISIC_0055235,45,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d3db6d7c19d0bc0b0d,ISIC_0055261,50,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d5db6d7c19d0bc0b48,ISIC_0055320,40,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d6db6d7c19d0bc0b64,ISIC_0055348,70,head/neck,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d7db6d7c19d0bc0b85,ISIC_0055381,50,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d7db6d7c19d0bc0b86,ISIC_0055382,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545d8db6d7c19d0bc0ba7,ISIC_0055415,,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,,,,,,,,,1024,1024
+5c9545d9db6d7c19d0bc0bba,ISIC_0055434,75,lower extremity,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545d9db6d7c19d0bc0bc7,ISIC_0055447,85,head/neck,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545dadb6d7c19d0bc0be0,ISIC_0055472,85,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545dadb6d7c19d0bc0be1,ISIC_0055473,50,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545dcdb6d7c19d0bc0c0a,ISIC_0055514,25,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545dddb6d7c19d0bc0c21,ISIC_0055537,70,lower extremity,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545dddb6d7c19d0bc0c35,ISIC_0055557,70,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545dedb6d7c19d0bc0c38,ISIC_0055560,85,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e0db6d7c19d0bc0c7b,ISIC_0055627,65,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e0db6d7c19d0bc0c84,ISIC_0055636,30,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e0db6d7c19d0bc0c8d,ISIC_0055645,65,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e1db6d7c19d0bc0caf,ISIC_0055679,65,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545e2db6d7c19d0bc0ccc,ISIC_0055708,40,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e4db6d7c19d0bc0cfb,ISIC_0055755,30,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e5db6d7c19d0bc0d23,ISIC_0055795,85,head/neck,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545e5db6d7c19d0bc0d28,ISIC_0055800,75,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e6db6d7c19d0bc0d38,ISIC_0055816,60,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e6db6d7c19d0bc0d4f,ISIC_0055839,85,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545e8db6d7c19d0bc0d86,ISIC_0055894,35,head/neck,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545eadb6d7c19d0bc0db6,ISIC_0055942,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545eadb6d7c19d0bc0dc3,ISIC_0055955,75,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545ebdb6d7c19d0bc0de2,ISIC_0055986,45,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545ebdb6d7c19d0bc0de4,ISIC_0055988,65,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545eddb6d7c19d0bc0e1d,ISIC_0056045,60,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545eedb6d7c19d0bc0e25,ISIC_0056053,65,,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545efdb6d7c19d0bc0e4e,ISIC_0056094,65,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545efdb6d7c19d0bc0e5b,ISIC_0056107,60,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f0db6d7c19d0bc0e74,ISIC_0056132,65,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f1db6d7c19d0bc0e85,ISIC_0056149,70,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f2db6d7c19d0bc0e9e,ISIC_0056174,65,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f2db6d7c19d0bc0e9f,ISIC_0056175,50,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f2db6d7c19d0bc0eb1,ISIC_0056193,65,anterior torso,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f3db6d7c19d0bc0ed7,ISIC_0056231,75,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f4db6d7c19d0bc0ee0,ISIC_0056240,60,lower extremity,,,seborrheic keratosis,,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f4db6d7c19d0bc0ee1,ISIC_0056241,75,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
+5c9545f4db6d7c19d0bc0ee5,ISIC_0056245,55,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f6db6d7c19d0bc0f28,ISIC_0056312,85,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,female,,,,,,,,1024,1024
+5c9545f7db6d7c19d0bc0f39,ISIC_0056329,85,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,FALSE,,,,male,,,,,,,,1024,1024
