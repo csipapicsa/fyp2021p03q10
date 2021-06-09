@@ -1,0 +1,405 @@
+
+gitu@DESKTOP-9EK3KQ3 MINGW64 /d/ITU-BOOK/First Year Project/repo/fyp2021p03q10 (main)
+$ git log
+commit a7adbd584ed81995be772eec465326680f9b526c (HEAD -> main)
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 13:06:19 2021 +0200
+
+    final_project_files_in_folder
+
+commit 17a630f890a675baa470207e66eacbd658aa1e04
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 12:58:13 2021 +0200
+
+    Update README.md
+
+commit aea2b8f53f9fb6e3820e22d7b2f62f5ae06aa819
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 12:44:07 2021 +0200
+
+    final report push with machine learning part
+
+commit 2e23a52ccefbbe5eb920da402781d76207861059
+Author: shakirmshaker <56033197+shakirmshaker@users.noreply.github.com>
+Date:   Fri Apr 23 12:23:36 2021 +0200
+
+    Update MachineLearning.ipynb
+:...skipping...
+commit a7adbd584ed81995be772eec465326680f9b526c (HEAD -> main)
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 13:06:19 2021 +0200
+
+    final_project_files_in_folder
+
+commit 17a630f890a675baa470207e66eacbd658aa1e04
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 12:58:13 2021 +0200
+
+    Update README.md
+
+commit aea2b8f53f9fb6e3820e22d7b2f62f5ae06aa819
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 12:44:07 2021 +0200
+
+    final report push with machine learning part
+
+commit 2e23a52ccefbbe5eb920da402781d76207861059
+Author: shakirmshaker <56033197+shakirmshaker@users.noreply.github.com>
+Date:   Fri Apr 23 12:23:36 2021 +0200
+
+    Update MachineLearning.ipynb
+
+commit 6930f958e6dce784acb540fd968f452fe299a2fc
+Author: shakirmshaker <56033197+shakirmshaker@users.noreply.github.com>
+Date:   Fri Apr 23 12:00:37 2021 +0200
+
+    Update MachineLearning.ipynb
+
+commit 375036ed7fd8748231f3b0cb49c1cd6d398f91b1
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 11:53:24 2021 +0200
+
+    final report update
+
+commit cc93859d0499a302fdbbc4d856f40e0aab51261d
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 11:45:43 2021 +0200
+
+    3d plots in the final report
+
+commit 105a7057fda1a4c7dbba0eee4efdd19b346a6478
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 11:07:04 2021 +0200
+
+    3d_plots
+
+commit 752812ca612c3e343a2a6410eac953ef3952083f
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 10:54:40 2021 +0200
+
+    Create healthy_skin_lesions_dominant_color.PNG
+
+commit f1449626d8476d908f93a2f4cc85ea5e99ae15e6
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Fri Apr 23 09:56:32 2021 +0200
+
+    more
+
+commit 25bf2e9ed79641c0b9d4305de6e8b0c08de0fc51
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 23 09:49:50 2021 +0200
+
+    delete small dummy pictures
+
+commit a4f0db25a3021c38bd48ff9032f748ef3e42e0b2
+Author: shakirmshaker <56033197+shakirmshaker@users.noreply.github.com>
+Date:   Thu Apr 22 22:15:51 2021 +0200
+
+    Update
+
+commit 5c1d3bee336a057bfcddb188d8c2d6ad38e90196
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 22:14:45 2021 +0200
+
+    some cleaning, some picture
+
+commit c62002d79e3d86c88a3bdefbed349dc6c688604e
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 20:33:43 2021 +0200
+
+    new_dataset
+
+    update, matching with pictures
+
+commit 53efd9e376cf18353e6e2b69ee66ba8dff612e53
+Merge: a8eca17 7a20062
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 20:14:55 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p03q10 into main
+
+commit a8eca178cd740e4c07cc53542cc6b3abd21817f9
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 20:14:17 2021 +0200
+
+    need to finish it
+
+commit 7a20062b5f2a7b23352fda2d26a1a62a5abe1cf1
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Apr 22 20:02:14 2021 +0200
+
+    added func 'find_symmetry', updated final_df.csv
+
+commit a9671fe14733210728a92091e8bdc452b7605fdb
+Merge: 15912cd 8deb19e
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Apr 22 19:58:17 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p03q10 into main
+
+commit 15912cd91399c58b7aa2036cb8882b75fc2ba4e0
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Apr 22 19:51:49 2021 +0200
+
+    added func find_symmetry to notebook, updated final_df.csv
+
+commit 8deb19e4e10faeb875c9326f2c1511841a8063c6
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 19:50:26 2021 +0200
+
+    some of pictures are missing from the folder
+
+    so you will get error, I delete the false images, i am on it
+
+commit f928848d40a60b95adb1230c68bb42bfc7b002f2
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 19:42:55 2021 +0200
+
+    other pack of pictures
+
+commit 9c6629c87ab88ab365b67a7a4efec1c294d54afc
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 19:06:54 2021 +0200
+
+    one graph details is changed in FR
+
+    - minor
+
+commit c6e1ada0a97284091ea8b0396eab9a49716f8829
+Merge: c5c2990 eb9acee
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Thu Apr 22 18:43:03 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p03q10 into main
+
+commit c5c2990de93e0fa3a3983b61c033ef2f883bd2ec
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Thu Apr 22 18:42:54 2021 +0200
+
+    more exploration
+
+commit eb9acee10e5b7621eb4ee7e10eec2736b288cf81
+Merge: 74d7545 46163c3
+Author: shakirmshaker <56033197+shakirmshaker@users.noreply.github.com>
+Date:   Thu Apr 22 18:31:16 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p03q10 into main
+
+commit 74d754548cce6107b828ae5db336da9ba50c31b1
+Author: shakirmshaker <56033197+shakirmshaker@users.noreply.github.com>
+Date:   Thu Apr 22 18:30:59 2021 +0200
+
+    Machine Learning
+
+commit 46163c3b8b7dc92e96c46bd57e9853b093ef1f02
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Apr 22 17:48:09 2021 +0200
+
+    added border_symmetry functions to notebook
+
+commit b79aa2bfec72dad2cb151c5a4ebb998b5959bd4f
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 16:32:35 2021 +0200
+
+    an useless diagram, final report updated
+
+commit 2151eb0840103f67726dcc8eb80ae485701b1056
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 15:06:05 2021 +0200
+
+    HTML codes of colors, final workbook
+
+commit f590d014bf0246ebc207208fa1b29a0de9c68468
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Thu Apr 22 12:41:10 2021 +0200
+
+    Pre-Final dataset
+
+    - 4 most dominant color in RGB and border symmetries merged
+
+commit ae4c40d2941a08d04b6f433cf9ef8d90342479f0
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Apr 22 11:42:22 2021 +0200
+
+    Turned border_symmetry and csv creation into function, commented code
+
+commit 4dd27d205524cde518c29059d34d504295272bf4
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Apr 22 03:45:39 2021 +0200
+
+    created 'border_symmetry' file in data/processed, updated 'initial commit' notebook
+
+commit 186b8c82119684a4f6232587f68b9b5f384d9025
+Author: Jeppe L <jlum@itu.dk>
+Date:   Wed Apr 21 21:18:31 2021 +0200
+
+    added Initial Data exploration notebook
+
+commit b240ab55cee70c389562dfc48a49a0f98e09a88c
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue Apr 20 13:36:19 2021 +0200
+
+    centerpoints
+
+commit 9d6871e7849c570088a34be2cc38592d4ffcd4da
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 20 12:56:23 2021 +0200
+
+    4 dominant colors added
+
+commit da95eb2262f0e328e05c1fe77e6c1c781f5e3557
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 20 11:53:20 2021 +0200
+
+    Copy of lecture - Eval
+
+commit a87ff7d97c127dc0afa06507067f75438eaed366
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Sun Apr 18 19:40:55 2021 +0200
+
+    Dominant Colors in RGB
+
+    - Five most dominant colors in RGB were extracted from eash picture (dominant_colors_adjusted.csv)
+    - if the black area (due to the mask) was the dominant the remain 4 colors were adjusted (dominant_colors_adjusted.csv boolean : "adjusted_bool"(yes or no)  and applied for new columns
+    - mask files' size were reduced
+
+commit 54c8bc2b170a810174ff07d48741acba1ceb0b9e
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Sun Apr 18 19:31:00 2021 +0200
+
+    Revert "Dominant RGB-s"
+
+    This reverts commit 6852e750d395020b2bad969b5cb316f34d1290eb.
+
+commit 6852e750d395020b2bad969b5cb316f34d1290eb
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Sun Apr 18 19:30:48 2021 +0200
+
+    Dominant RGB-s
+
+    - Dominant RGB colors extracted:
+
+commit fe5c20c13c7a460f0482430a5b418d194b09a0f7
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Sat Apr 17 09:59:34 2021 +0200
+
+    Dummy code
+
+    - Extract the five most dominant colors
+    - Average Colors as well:
+    - TODO:
+
+commit 3ff9835cbcd5d096047f359885124ed56592b644
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Wed Apr 14 23:49:15 2021 +0200
+
+    Summary
+
+    - Pictures are resized for 25%, added to example_images / sm
+    - "task_1" jupyter notebook file added (its still messy)
+    - features.csv added
+    - simple dataset about keratosis / melanoma / healthy categories was made
+    - Otherwise I little bit lost
+
+commit 65a66421f8f39d4b8f7eda92d9dc6eb7d67525ab
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Wed Apr 14 22:15:54 2021 +0200
+
+    d
+
+commit b533849e65ac14fa267be9e8b38fae5bb499ab2e
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue Apr 13 16:55:12 2021 +0200
+
+    removed 'nothing' files, changed to gitkeep where neccessary
+
+commit f58699d239079c73c5118c620c373afd13d847f9
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Apr 13 16:23:09 2021 +0200
+
+    wrong files were copied
+
+commit 8d15513e9c5e51e24bf1b5d7fe17cc3b962ec2a0
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Apr 13 16:17:02 2021 +0200
+
+    ex files upload
+
+commit 56000ad2c66685fa72b60822a838d98c5176fd4d
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 9 15:50:00 2021 +0200
+
+    Update Ex_2.ipynb
+
+commit 9ce3639f4a8db633ee4d4a2359019e937c49b96d
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 9 15:48:40 2021 +0200
+
+    dummy files seperated, read in, dataset for keratosis
+
+commit d6e5346c8f783324db000668c40131467ec849a5
+Merge: 643b02c d9da9e7
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Fri Apr 9 14:31:46 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p03q10 into main
+
+commit 643b02cf95b629fb3749fd97c74554059ed01f5b
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Fri Apr 9 14:23:40 2021 +0200
+
+    Exploring dataset
+
+commit d9da9e748a6e318c3c6a6a50b99293acdea1c18d
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 9 14:22:41 2021 +0200
+
+    Create Ex_2.ipynb
+
+commit 9a934d5384c96610462d95bf7c0004f7a51e889a
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Fri Apr 9 14:15:38 2021 +0200
+
+    Lecture files, lessons
+
+commit 99ffcb115d56a0b7155425f8184643dcb855ad4a
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 6 16:58:50 2021 +0200
+
+    Update notebook.ipynb
+
+commit 1eaf52af6ed11aa2d5593b12ae00ef156436ef7b
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 6 16:54:37 2021 +0200
+
+    notebooks
+
+commit f16bbb88a16fea61d40a5c3cd5c4a3d5ff40761d
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 6 16:48:30 2021 +0200
+
+    raw data
+
+commit 581b7750c1b88586611a1f81d400d054b809e0e3
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 6 16:36:15 2021 +0200
+
+    Empty jupyter notebook file
+
+commit ceffb4247aa1ad6f35a085aeb901adcbfe30587b
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 6 16:30:45 2021 +0200
+
+    folder structure 2
+
+commit 4b48438ee03455dbc0b75e84b03821c8f861e898
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 6 16:27:27 2021 +0200
+
+    folder structure
+
+commit e271c27ecc9590cccd1ec52cbf40d42b8d98dd8f
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 6 16:18:48 2021 +0200
+
+    Initial commit

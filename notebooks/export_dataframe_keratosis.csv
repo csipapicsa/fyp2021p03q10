@@ -1,0 +1,284 @@
+_id,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY,n1,n2,n3,n4
+581cd70f9fc3c13dcd0e1c6e,55.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd7119fc3c13dcd0e1c86,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd7119fc3c13dcd0e1c90,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000,50.0,450.0,52.64000000000001,699.36
+581cd7139fc3c13dcd0e1cb4,50.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd7159fc3c13dcd0e1ccf,85.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd7159fc3c13dcd0e1cd8,85.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd71b9fc3c13dcd0e1d3b,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,51.900000000000006,467.1,54.25000000000001,720.75
+581cd7209fc3c13dcd0e1daa,50.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd7219fc3c13dcd0e1dc5,75.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd7279fc3c13dcd0e1e36,60.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd72b9fc3c13dcd0e1e85,50.0,lateral torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd7339fc3c13dcd0e1efa,75.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,51.900000000000006,467.1,54.25000000000001,720.75
+581cd7449fc3c13dcd0e2032,55.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7469fc3c13dcd0e2044,85.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7479fc3c13dcd0e204d,65.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd74e9fc3c13dcd0e20a7,85.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd76a9fc3c13dcd0e2200,60.0,head/neck,malignant,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd76d9fc3c13dcd0e2221,75.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7779fc3c13dcd0e22ab,50.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7799fc3c13dcd0e22bd,65.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd78c9fc3c13dcd0e23aa,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd78f9fc3c13dcd0e23d4,50.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7949fc3c13dcd0e2410,50.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7949fc3c13dcd0e2419,65.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7a69fc3c13dcd0e24eb,60.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7a99fc3c13dcd0e251a,80.0,,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7ac9fc3c13dcd0e2536,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7b49fc3c13dcd0e2589,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7bd9fc3c13dcd0e25ff,60.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7cf9fc3c13dcd0e26dd,45.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7da9fc3c13dcd0e2767,45.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7e09fc3c13dcd0e27af,75.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7e69fc3c13dcd0e2800,80.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd7f09fc3c13dcd0e28b7,65.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd82c9fc3c13dcd0e2c02,60.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8309fc3c13dcd0e2c26,70.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8319fc3c13dcd0e2c2f,70.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8469fc3c13dcd0e2d8b,70.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd8499fc3c13dcd0e2daf,85.0,,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd84d9fc3c13dcd0e2df5,70.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8509fc3c13dcd0e2e15,50.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8519fc3c13dcd0e2e27,70.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8679fc3c13dcd0e2f4d,50.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd86c9fc3c13dcd0e2f83,60.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd8719fc3c13dcd0e2fc2,55.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd8729fc3c13dcd0e2fd4,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd8739fc3c13dcd0e2fec,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000,50.0,450.0,52.64000000000001,699.36
+581cd8749fc3c13dcd0e2ff5,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd8759fc3c13dcd0e3009,35.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd8789fc3c13dcd0e3031,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd8829fc3c13dcd0e30c4,85.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd8839fc3c13dcd0e30cd,85.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd8839fc3c13dcd0e30d6,85.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd8849fc3c13dcd0e30df,75.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd88d9fc3c13dcd0e316f,70.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd8909fc3c13dcd0e31b1,75.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd8979fc3c13dcd0e3214,70.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd8a99fc3c13dcd0e32f2,65.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,3872,2592,51.900000000000006,467.1,54.25000000000001,720.75
+581cd8aa9fc3c13dcd0e32fb,65.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8cd9fc3c13dcd0e34f3,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8dd9fc3c13dcd0e35d7,65.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd8f49fc3c13dcd0e372a,80.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd9239fc3c13dcd0e39bb,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd92b9fc3c13dcd0e3a3c,45.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,50.0,450.0,52.64000000000001,699.36
+581cd9389fc3c13dcd0e3af3,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd95a9fc3c13dcd0e3ceb,35.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3008,2000,100.0,900.0,105.28000000000002,1398.72
+581cd95b9fc3c13dcd0e3cfd,35.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,3872,2592,103.7,933.3,108.43,1440.57
+581cd95f9fc3c13dcd0e3d3c,50.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd96d9fc3c13dcd0e3de1,75.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd97a9fc3c13dcd0e3e98,50.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9819fc3c13dcd0e3ef5,65.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd99d9fc3c13dcd0e405a,75.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9ab9fc3c13dcd0e4111,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9c19fc3c13dcd0e4237,85.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9c69fc3c13dcd0e427f,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9c89fc3c13dcd0e4291,70.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9cf9fc3c13dcd0e4309,50.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9dd9fc3c13dcd0e43d2,60.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9e09fc3c13dcd0e43f6,75.0,lateral torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cd9fb9fc3c13dcd0e4549,75.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,contact non-polarized,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda039fc3c13dcd0e45ca,55.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda089fc3c13dcd0e4612,60.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda099fc3c13dcd0e461b,75.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda0c9fc3c13dcd0e4653,55.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda259fc3c13dcd0e478c,50.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda269fc3c13dcd0e4795,45.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda3b9fc3c13dcd0e48af,85.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda599fc3c13dcd0e4a40,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda5c9fc3c13dcd0e4a68,65.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda609fc3c13dcd0e4a9e,55.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda619fc3c13dcd0e4aa7,75.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda639fc3c13dcd0e4acb,50.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda6d9fc3c13dcd0e4b43,50.0,lateral torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda6e9fc3c13dcd0e4b4c,45.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda749fc3c13dcd0e4ba9,80.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda7e9fc3c13dcd0e4c24,85.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda909fc3c13dcd0e4d17,75.0,posterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cda9f9fc3c13dcd0e4dbc,70.0,anterior torso,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdab29fc3c13dcd0e4ebe,75.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdab49fc3c13dcd0e4ee1,50.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdab59fc3c13dcd0e4eee,85.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdabe9fc3c13dcd0e4f51,75.0,lower extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdac69fc3c13dcd0e4fc0,65.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdacc9fc3c13dcd0e5016,75.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdacd9fc3c13dcd0e502b,85.0,head/neck,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+581cdad99fc3c13dcd0e50c8,50.0,upper extremity,benign,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,4288,2848,71.2,640.8,75.04,996.96
+5825fd959fc3c171066d3355,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd959fc3c171066d335e,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd959fc3c171066d3367,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd959fc3c171066d3370,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd959fc3c171066d337b,60.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd969fc3c171066d3386,60.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd969fc3c171066d338f,60.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd969fc3c171066d3398,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd969fc3c171066d33a3,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd979fc3c171066d33ac,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd979fc3c171066d33b8,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd979fc3c171066d33c2,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd979fc3c171066d33cb,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd989fc3c171066d33d4,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd989fc3c171066d33dd,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd989fc3c171066d33e8,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd989fc3c171066d33f1,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd999fc3c171066d33fd,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd999fc3c171066d3407,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,5184,3456,86.4,777.6,90.72000000000001,1205.28
+5825fd9a9fc3c171066d3410,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,5184,3456,86.4,777.6,90.72000000000001,1205.28
+5825fd9a9fc3c171066d3419,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,5184,3456,86.4,777.6,90.72000000000001,1205.28
+5825fd9b9fc3c171066d3422,60.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd9b9fc3c171066d342b,60.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd9c9fc3c171066d3434,60.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd9c9fc3c171066d343d,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9c9fc3c171066d3446,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9c9fc3c171066d344f,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9d9fc3c171066d3458,60.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9d9fc3c171066d3461,85.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9d9fc3c171066d346a,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9e9fc3c171066d3473,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9e9fc3c171066d347c,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9e9fc3c171066d3485,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9f9fc3c171066d348e,80.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fd9f9fc3c171066d3497,80.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fd9f9fc3c171066d34a0,80.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fda09fc3c171066d34a9,80.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+5825fda09fc3c171066d34b2,85.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5825fda09fc3c171066d34bb,85.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+584191719fc3c16793d59e33,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191729fc3c16793d59e3c,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+584191729fc3c16793d59e47,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191739fc3c16793d59e51,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191739fc3c16793d59e5d,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191739fc3c16793d59e66,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191749fc3c16793d59e71,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+584191749fc3c16793d59e7a,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191749fc3c16793d59e85,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191759fc3c16793d59e90,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191759fc3c16793d59e99,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191759fc3c16793d59ea2,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191759fc3c16793d59eab,65.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191759fc3c16793d59eb4,65.0,head/neck,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,96.80000000000001,871.2,90.72000000000001,1205.28
+584191769fc3c16793d59ebd,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191769fc3c16793d59ec6,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191769fc3c16793d59ecf,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191769fc3c16793d59ed8,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+584191779fc3c16793d59ee1,65.0,,benign,,seborrheic keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,2592,1936,193.60000000000002,1742.4,181.44000000000003,2410.56
+5c954593db6d7c19d0bc040b,75.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c954595db6d7c19d0bc0442,60.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c954595db6d7c19d0bc0443,60.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c954596db6d7c19d0bc0448,,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c954597db6d7c19d0bc0460,85.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c954597db6d7c19d0bc046a,85.0,head/neck,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c954598db6d7c19d0bc0471,50.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c95459adb6d7c19d0bc04ab,85.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c95459bdb6d7c19d0bc04cd,70.0,,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c95459bdb6d7c19d0bc04cf,65.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c95459ddb6d7c19d0bc0504,65.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c95459fdb6d7c19d0bc0524,60.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c95459fdb6d7c19d0bc0526,85.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c95459fdb6d7c19d0bc052c,55.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a2db6d7c19d0bc057b,50.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a2db6d7c19d0bc057c,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a5db6d7c19d0bc05d1,70.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a6db6d7c19d0bc05da,55.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a6db6d7c19d0bc05dc,40.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a8db6d7c19d0bc0613,75.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a8db6d7c19d0bc0616,75.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a8db6d7c19d0bc0622,50.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545a9db6d7c19d0bc0633,85.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545addb6d7c19d0bc06a0,75.0,anterior torso,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545aedb6d7c19d0bc06c5,60.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b0db6d7c19d0bc06ef,65.0,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b0db6d7c19d0bc06fb,65.0,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b3db6d7c19d0bc0749,65.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b4db6d7c19d0bc0764,65.0,,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b4db6d7c19d0bc0765,65.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b4db6d7c19d0bc0770,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b5db6d7c19d0bc077d,25.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b5db6d7c19d0bc0782,65.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b6db6d7c19d0bc07a8,45.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b7db6d7c19d0bc07c3,55.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545b7db6d7c19d0bc07c7,45.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545badb6d7c19d0bc0829,50.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545bbdb6d7c19d0bc083f,75.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545bedb6d7c19d0bc0898,45.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c0db6d7c19d0bc08d2,75.0,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c0db6d7c19d0bc08d5,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c0db6d7c19d0bc08e4,60.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c1db6d7c19d0bc08f0,40.0,upper extremity,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c1db6d7c19d0bc08f4,70.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c1db6d7c19d0bc08fb,40.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c1db6d7c19d0bc0903,50.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c2db6d7c19d0bc0919,55.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c2db6d7c19d0bc092b,30.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c2db6d7c19d0bc092c,30.0,lower extremity,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c3db6d7c19d0bc094b,55.0,lower extremity,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c4db6d7c19d0bc0961,65.0,lower extremity,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c4db6d7c19d0bc0968,85.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c5db6d7c19d0bc0977,50.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c5db6d7c19d0bc098f,50.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c6db6d7c19d0bc0992,70.0,head/neck,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c6db6d7c19d0bc09a1,75.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c6db6d7c19d0bc09a4,75.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c7db6d7c19d0bc09c3,70.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c8db6d7c19d0bc09e5,40.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c9db6d7c19d0bc09f5,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545c9db6d7c19d0bc09f7,,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545cadb6d7c19d0bc0a08,85.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545cbdb6d7c19d0bc0a23,55.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545cddb6d7c19d0bc0a5d,50.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545cedb6d7c19d0bc0a69,60.0,oral/genital,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545cfdb6d7c19d0bc0a9a,60.0,,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545cfdb6d7c19d0bc0a9f,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d0db6d7c19d0bc0aac,65.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d0db6d7c19d0bc0aae,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d0db6d7c19d0bc0abe,55.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d0db6d7c19d0bc0ac1,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d1db6d7c19d0bc0adf,40.0,head/neck,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d1db6d7c19d0bc0ae3,70.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d2db6d7c19d0bc0af2,85.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d2db6d7c19d0bc0af3,45.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d3db6d7c19d0bc0b0d,50.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d5db6d7c19d0bc0b48,40.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d6db6d7c19d0bc0b64,70.0,head/neck,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d7db6d7c19d0bc0b85,50.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d7db6d7c19d0bc0b86,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d8db6d7c19d0bc0ba7,,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d9db6d7c19d0bc0bba,75.0,lower extremity,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545d9db6d7c19d0bc0bc7,85.0,head/neck,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545dadb6d7c19d0bc0be0,85.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545dadb6d7c19d0bc0be1,50.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545dcdb6d7c19d0bc0c0a,25.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545dddb6d7c19d0bc0c21,70.0,lower extremity,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545dddb6d7c19d0bc0c35,70.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545dedb6d7c19d0bc0c38,85.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e0db6d7c19d0bc0c7b,65.0,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e0db6d7c19d0bc0c84,30.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e0db6d7c19d0bc0c8d,65.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e1db6d7c19d0bc0caf,65.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e2db6d7c19d0bc0ccc,40.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e4db6d7c19d0bc0cfb,30.0,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e5db6d7c19d0bc0d23,85.0,head/neck,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e5db6d7c19d0bc0d28,75.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e6db6d7c19d0bc0d38,60.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e6db6d7c19d0bc0d4f,85.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545e8db6d7c19d0bc0d86,35.0,head/neck,,,seborrheic keratosis,confocal microscopy with consensus dermoscopy,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545eadb6d7c19d0bc0db6,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545eadb6d7c19d0bc0dc3,75.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545ebdb6d7c19d0bc0de2,45.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545ebdb6d7c19d0bc0de4,65.0,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545eddb6d7c19d0bc0e1d,60.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545eedb6d7c19d0bc0e25,65.0,,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545efdb6d7c19d0bc0e4e,65.0,upper extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545efdb6d7c19d0bc0e5b,60.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f0db6d7c19d0bc0e74,65.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f1db6d7c19d0bc0e85,70.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f2db6d7c19d0bc0e9e,65.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f2db6d7c19d0bc0e9f,50.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f2db6d7c19d0bc0eb1,65.0,anterior torso,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f3db6d7c19d0bc0ed7,75.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f4db6d7c19d0bc0ee0,60.0,lower extremity,,,seborrheic keratosis,,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f4db6d7c19d0bc0ee1,75.0,anterior torso,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f4db6d7c19d0bc0ee5,55.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f6db6d7c19d0bc0f28,85.0,lower extremity,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,female,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
+5c9545f7db6d7c19d0bc0f39,85.0,head/neck,,,seborrheic keratosis,histopathology,,,,,,,,False,,,,male,,,,,,,,1024,1024,102.4,921.6,71.68,952.3199999999999
